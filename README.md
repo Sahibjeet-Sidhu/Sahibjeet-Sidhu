@@ -4,7 +4,9 @@ A 4th-year Computer Science student at **Toronto Metropolitan University**, buil
 
 - 🎯 Looking for **Summer 2027** software engineering internships
 - 🧠 Currently studying Machine Learning and AI (Python, pandas, NumPy, scikit-learn)
-- 📫 [LinkedIn](http://www.linkedin.com/in/s-sidhu) · [Email](mailto:sahib_19@outlook.com)
+- 📫 Connect with me:
+
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/s-sidhu/)
 
 ---
 
