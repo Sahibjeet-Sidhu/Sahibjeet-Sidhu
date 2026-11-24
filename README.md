@@ -1,6 +1,6 @@
 # Hi, I'm Sahibjeet 👋
 
-A 4th-year Computer Science student at **Toronto Metropolitan University**, building full-stack and AI-powered applications. I have 8 months of software development co-op experience with the Government of Ontario and I'm an incoming **Software Developer Co-op at CIBC** (Winter 2027).
+A 4th-year Computer Science student at **Toronto Metropolitan University**, building full-stack and AI-powered applications. I have 8 months of software development co-op experience with the Government of Ontario and I'm an incoming **Software Developer Intern at CIBC** (Winter 2027).
 
 - 🎯 Looking for **Summer 2027** software engineering internships
 - 🧠 Currently studying Machine Learning and AI (Python, pandas, NumPy, scikit-learn)
@@ -26,7 +26,7 @@ A 4th-year Computer Science student at **Toronto Metropolitan University**, buil
 
 ### Experience
 
-- **Software Developer Co-op**, CIBC (Incoming, Winter 2027)
+- **Software Developer Intern**, CIBC (Incoming, Winter 2027)
 - **Software Developer Intern**, Ontario Ministry of Public and Business Service Delivery and Procurement (Jan - May 2026)
 - **Technical IT Assistant Intern**, Ontario Ministry of Public and Business Service Delivery and Procurement (Sept 2025 - Jan 2026)
 
